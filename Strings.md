@@ -4,7 +4,6 @@
 
 ### Easy (10/10)
 
--   [x] Valid Palindrome - [](https://leetcode.com/problems/valid-palindrome/)[https://leetcode.com/problems/valid-palindrome/](https://leetcode.com/problems/valid-palindrome/)
 -   [x] **[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)**
 -   [x] [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
 -   [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
