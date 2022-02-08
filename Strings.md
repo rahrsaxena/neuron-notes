@@ -35,16 +35,16 @@
 -   [x] **[Interleaving String](https://leetcode.com/problems/interleaving-string/)**
 -   [x] **[Word Search](https://leetcode.com/problems/word-search/)**
 
-### Hard (5/8)
+### Hard (8/8)
 
 -   [x] **[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)**
 -   [x] **[Word Search II](https://leetcode.com/problems/word-search-ii/)**
 -   [x] **[Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)**
 -   [x] **[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)**
 -   [x] **[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)**
--   [ ] **[Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/)**
--   [ ] **[Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/)**
--   [ ] **[Count Different Palindromic Subsequences](https://leetcode.com/problems/count-different-palindromic-subsequences/)** 
+-   [x] **[Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/)**
+-   [x] **[Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/)**
+-   [x] **[Count Different Palindromic Subsequences](https://leetcode.com/problems/count-different-palindromic-subsequences/)** 
 
 
 ## Solution Links:
